@@ -1,5 +1,5 @@
 ---
-title: install nodejs in CentOS 7
+title: CentOS 7安装Node.js
 date: 2019-05-05 17:42:05
 categories: 技术分享
 tags:
